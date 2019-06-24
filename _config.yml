@@ -1,1 +1,7 @@
 theme: jekyll-theme-cayman
+title: Vitro
+description: A voice assistant for scientific lab protocols
+github:
+  backend_repository_url: https://github.com/expertise-at-scale/vitro_dialogue
+plugins:
+  - jemoji

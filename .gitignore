@@ -12,3 +12,5 @@ yarn-error.log
 .editorconfig
 yarn.lock
 src/renderer/client_secret.json
+_site/
+Gemfile.lock
