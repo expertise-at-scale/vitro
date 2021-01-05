@@ -54,7 +54,7 @@
   },
   "dependencies": {
     "CBuffer": "^2.0.0",
-    "axios": "^0.16.1",
+    "axios": "^0.21.1",
     "co": "^4.6.0",
     "eslint-plugin-vue": "^4.5.0",
     "google-assistant": "^0.5.2",
