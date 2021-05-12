@@ -59,7 +59,7 @@
     "eslint-plugin-vue": "^4.5.0",
     "google-assistant": "^0.5.2",
     "googleapis": "25.0.0",
-    "grpc": "^1.12.1",
+    "grpc": "^1.24.9",
     "hark": "^1.2.0",
     "material-design-icons-iconfont": "^3.0.3",
     "mkdirp": "^0.5.1",
