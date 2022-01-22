@@ -64,7 +64,7 @@
     "material-design-icons-iconfont": "^3.0.3",
     "mkdirp": "^0.5.1",
     "mousetrap": "^1.6.2",
-    "node-fetch": "^2.1.2",
+    "node-fetch": "^3.1.1",
     "sine-waves": "^0.3.0",
     "vue": "^2.5.16",
     "vue-electron": "^1.0.6",
